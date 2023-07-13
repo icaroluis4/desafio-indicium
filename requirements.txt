@@ -1,0 +1,7 @@
+pandas==1.5.3
+csv==3.10.12
+seaborn==0.12.2
+matplotlib==3.7.1
+numpy==1.22.4
+pickle==3.10.12
+scikit-learn==1.2.2
